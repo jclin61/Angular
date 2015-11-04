@@ -1,0 +1,38 @@
+[
+    {
+        "shoesize": 43, 
+        "number": "7782345432", 
+        "name": "Kevin Chen", 
+        "email": "kevinchen@gmail.com"
+    }, 
+    {
+        "shoesize": 35, 
+        "number": "852345432", 
+        "name": "Bruce Chou", 
+        "email": "buchou@gmail.com"
+    }, 
+    {
+        "shoesize": 37, 
+        "number": "7752345432", 
+        "name": "Julie Pan", 
+        "email": "juliepan@gmail.com"
+    }, 
+    {
+        "shoesize": 41, 
+        "number": "7782258432", 
+        "name": "Sam Pat", 
+        "email": "sampat@gmail.com"
+    }, 
+    {
+        "shoesize": 43, 
+        "number": "7782345432", 
+        "name": "Ivan Tay", 
+        "email": "ivantay@gmail.com"
+    }, 
+    {
+        "shoesize": 44, 
+        "number": "2582345432", 
+        "name": "Allan Chen", 
+        "email": "allanchen@gmail.com"
+    }
+]
